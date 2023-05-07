@@ -17,4 +17,4 @@
 <div> 
   <a href="https://www.youtube.com/channel/UClK0Exn9A8VKNkC9u7wlJYw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/768149857352679454" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://t.me/c0daxy"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" height="28" width="100" target="_blank"></a>
+  <a href = "https://t.me/c0daxy"><img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
