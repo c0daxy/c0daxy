@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Codaxy-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Codaxy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Codaxy-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Codaxy-VS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Codaxy-Pic" height="150" style="border-radius:12px;" src="https://img.icons8.com/fluency/344/bmo.png">
 </div>
