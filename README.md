@@ -9,4 +9,4 @@
 - 🎂 17 yo!
 - 💻 Back-end developer.
 
-My username is Codaxy, I'm 17 years old. I study a little about everything, but what I like the most is backend development. My main technologies are Python and Golang.
+My username is Codaxy, I'm 17 years old. I dabble in a bit of everything, but my main passion is backend development. I primarily work with Python and Golang. Apart from coding, I'm all about anime and games!
